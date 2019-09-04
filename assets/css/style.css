@@ -47,10 +47,11 @@ body, html {
 }
 .backgroundfirst {
   /* The image used */
-  background-image: url('/assets/images/landing background.jpg');
+  background-image: url('/assets/images/landing_background.jpg');
 
   /* Full height */
-  height: 100%;
+  height: 70vh;
+  width:70vw;
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -61,10 +62,12 @@ body, html {
 /*second attempt a diffrent way - header background image*/
 
 .header {
-  background-image: url('/assets/images/landing background.jpg');
+  background-image: url('/assets/images/landing_background.jpg');
   background-size: cover;
   background-position: center;
   position: relative;
+  height: 70vh;
+  width:70vw;
 }
 
 .overlay {
