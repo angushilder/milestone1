@@ -1,0 +1,96 @@
+.body {
+    font-family: "Open Sans", "Open Sans Condensed", "Source Sans Pro";
+    }
+
+
+.title {
+    color: white;
+}
+/*----navbar end-------*/
+.navbar-brand {
+    color: white;
+}
+
+.navbar {
+    background: none;
+    border-color: transparent;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+
+.navbar .navbar-collapse {
+    text-align: right;
+    border-top: 1px solid transparent;
+    overflow-x: hidden;
+}
+
+.navbar-nav li a {
+    padding: 20px 25px 15px 25px;
+    color: transparent;
+}
+
+.navbar-fixed-top .container {
+    text-align: right;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+
+
+.navbar-brand {
+    float: left;
+    text-transform: uppercase;
+}
+/*navbar end*/
+
+body, html {
+  height: 100%;
+}
+.backgroundfirst {
+  /* The image used */
+  background-image: url('/assets/images/landing background.jpg');
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*second attempt a diffrent way - header background image*/
+
+.header {
+  background-image: url('/assets/images/landing background.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+
+.title and bodytext*/
+
+.description {
+  left: 50%;
+  position: absolute;
+  top: 45%;
+  transform: translate(-50%, -55%);
+  text-align: center;
+}
+.description h1 {
+  color: #6ab446;
+}
+.description p {
+  color: #fff;
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
