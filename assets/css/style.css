@@ -58,7 +58,7 @@ body, html {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	/*background-color:#E7D7CD;8/
+	
 }
 img {
 	max-width: 100%;
@@ -78,9 +78,11 @@ img {
 }
 .description h1 {
   color: #6ab446;
+  text-align: center;
 }
 .description p {
-  color: #fff;
+  color: #6ab446;
   font-size: 1.3rem;
   line-height: 1.5;
+  text-align: center;
 }
