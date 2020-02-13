@@ -1,14 +1,26 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+Hog and Truffles
 
+This website was produced to help a small trading company called Hog and Truffles". They are located near Cardiff, in Wales. The site has been set up, to help show the rest of the country, what Hog and Truffles are capable of doing. The website helps to show the different style of food. The idea is that people fill out the 'Get Quote' section, which will allow a quick and easy quote, to the potential customer. 
 
-Hi there! Welcome to AWS Cloud9!
+UX
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+Wireframes
 
-Happy coding!
+Features
+
+Technologies used
+
+Testing
+
+UX testing, using random users
+
+(get users, using different brownsers and laptops, iphones and android)
+
+Credits
+
+Content
+
+Media
+
+Acknowledgements
+
