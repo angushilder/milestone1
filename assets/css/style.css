@@ -8,12 +8,12 @@
 }
 /*----navbar end-------*/
 .navbar-brand {
-    color: white;
+    color: #FFBD33;
 }
 
 .navbar {
-    background: none;
-    border-color: transparent;
+    background: #FFBD33 ; 
+    border-color: white; 
     letter-spacing: 7px;
     text-transform: uppercase;
 }
@@ -26,7 +26,7 @@
 
 .navbar-nav li a {
     padding: 20px 25px 15px 25px;
-    color: transparent;
+    color: white;
 }
 
 .navbar-fixed-top .container {
@@ -65,6 +65,14 @@ img {
 	height: auto;
 }
 
+/* bigger h and t logo */
+
+.handtbig {
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}
+
 /* Centered text opening image */
 .centered {
   position: absolute;
@@ -72,6 +80,7 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+  color: white;
 }
 
 
@@ -132,3 +141,5 @@ padding-right: 1.1rem;
 }
 }
 /*gallery end*/
+
+/*
