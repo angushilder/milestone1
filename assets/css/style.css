@@ -73,24 +73,20 @@ img {
     background-position: center;
 }
 
-/* Second image background-size: cover; */
 
-.second-image {
-	overflow-x: hidden;
-	overflow-y: auto;
-	font-family: 'Manjari', sans-serif;
-	margin: 0;
-	height: 150%;
-	background-image:url("../images/welshflag.jpg");
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color:#E7D7CD;
-}
-img {
-	max-width: 100%;
-	height: auto;
+
+
+
+
+.fullpage {
+   height: 100vh;
+   background-position: center;
+    background-repeat: no-repeat;
 	
+}
+/*--new second image--*/
+#about-us {
+   background-image:url("../images/welshflag.jpg");
 }
 
 
