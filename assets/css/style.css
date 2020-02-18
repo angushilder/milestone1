@@ -46,7 +46,7 @@ body, html {
   height: 100%;
 }
 
-/* Background image */
+/* Background image - opening */
 .backgroundfirst {
   
 	overflow-x: hidden;
@@ -72,6 +72,27 @@ img {
     width: 100%;
     background-position: center;
 }
+
+/* Second image background-size: cover; */
+
+.second-image {
+	overflow-x: hidden;
+	overflow-y: auto;
+	font-family: 'Manjari', sans-serif;
+	margin: 0;
+	height: 150%;
+	background-image:url("../images/welshflag.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color:#E7D7CD;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	
+}
+
 
 /* Centered text opening image */
 .centered {
@@ -123,6 +144,7 @@ transition: all 350ms ease; }
 -ms-transform: scale(1);
 transform: scale(1); }
 
+
 @media (max-width: 450px) {
 .gallery {
 -webkit-column-count: 1;
@@ -142,4 +164,13 @@ padding-right: 1.1rem;
 }
 /*gallery end*/
 
-/*
+
+.contact-us-css {
+     background-position: center;
+}
+
+.social_link {
+    background-position: center;
+    background-color:#FFBD33;
+    
+}
