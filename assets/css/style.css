@@ -74,7 +74,20 @@ img {
 }
 
 
-
+/* Second image background-size: cover; */
+/*--old below*/
+.second-image {
+	overflow-x: hidden;
+	overflow-y: auto;
+	font-family: 'Manjari', sans-serif;
+	margin: 0;
+	height: 150%;
+	background-image:url("../images/welshflag.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color:#E7D7CD;
+} 
 
 
 
@@ -88,6 +101,8 @@ img {
 #about-us {
    background-image:url("../images/welshflag.jpg");
 }
+
+
 
 
 /* Centered text opening image */
