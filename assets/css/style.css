@@ -81,7 +81,7 @@ img {
 .fullpage {
     overflow-x: hidden;
 	overflow-y: auto;
-   height: 100vh;
+   
    background-size: cover;
    background-position: center;
     background-repeat: no-repeat;
