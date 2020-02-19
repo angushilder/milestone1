@@ -74,28 +74,18 @@ img {
 }
 
 
-/* Second image background-size: cover; */
-/*--old below*/
-.second-image {
-	overflow-x: hidden;
-	overflow-y: auto;
-	font-family: 'Manjari', sans-serif;
-	margin: 0;
-	height: 150%;
-	background-image:url("../images/welshflag.jpg");
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color:#E7D7CD;
-} 
+
 
 
 
 .fullpage {
+    overflow-x: hidden;
+	overflow-y: auto;
    height: 100vh;
+   background-size: cover;
    background-position: center;
     background-repeat: no-repeat;
-	
+	font-family: 'Manjari', sans-serif;
 }
 /*--new second image--*/
 #about-us {
@@ -103,7 +93,13 @@ img {
 }
 
 
-
+/*--harrison and lucy picture--*/
+.HandL {
+    background:url("../images/harrison_and_lucy.jpg");
+    width:50%;
+    height:auto; 
+    
+}
 
 /* Centered text opening image */
 .centered {
