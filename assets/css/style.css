@@ -76,7 +76,15 @@ img {
 
 
 .pad {
-    padding-top: 40px
+    padding-top: 80px
+}
+
+.pad2 {
+    padding-top: 120px
+}
+
+.quote-form {
+    padding-left: 40px;
 }
 
 
@@ -94,6 +102,10 @@ img {
 #about-us {
    background-image:url("../images/welshflag.jpg");
    
+}
+
+#Social-media {
+    text-align: center 
 }
 
 
@@ -129,6 +141,15 @@ img {
 
 #Our-Promise {
     background-color: #ccccff
+}
+/*--farm image from https://www.dailymail.co.uk/news/article-2234453/Portraits-true-grit-Amazing-black-white-photos-capture-everyday-struggles-Oklahoma-farmers-fighting-survive-Dust-Bowl.html--*/
+#contact {
+    text-align: center;
+    background-image:url("../images/black-and-white-farm.jpg");
+}
+
+.contact-text {
+    color: white
 }
 
 .title and bodytext
