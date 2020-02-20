@@ -75,7 +75,9 @@ img {
 
 
 
-
+.pad {
+    padding-top: 40px
+}
 
 
 .fullpage {
@@ -117,6 +119,17 @@ img {
     background-color: grey
 }
 
+#Social-media{
+    background-color: #FFBD33
+}
+
+.social-center {
+    
+}
+
+#Our-Promise {
+    background-color: #ccccff
+}
 
 .title and bodytext
 
