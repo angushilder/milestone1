@@ -81,7 +81,6 @@ img {
 .fullpage {
     overflow-x: hidden;
 	overflow-y: auto;
-   
    background-size: cover;
    background-position: center;
     background-repeat: no-repeat;
@@ -90,15 +89,13 @@ img {
 /*--new second image--*/
 #about-us {
    background-image:url("../images/welshflag.jpg");
+   
 }
 
 
 /*--harrison and lucy picture--*/
-.HandL {
-    background:url("../images/harrison_and_lucy.jpg");
-    width:50%;
-    height:auto; 
-    
+.handl {
+    position: absolute;
 }
 
 /* Centered text opening image */
