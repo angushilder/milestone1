@@ -82,9 +82,11 @@ img {
     overflow-x: hidden;
 	overflow-y: auto;
    background-size: cover;
+   height: 100vh;
    background-position: center;
     background-repeat: no-repeat;
 	font-family: 'Manjari', sans-serif;
+	position: relative;
 }
 /*--new second image--*/
 #about-us {
@@ -96,6 +98,9 @@ img {
 /*--harrison and lucy picture--*/
 .handl {
     position: absolute;
+    left: 140px;
+    bottom: 180px;
+    text-align: center;
 }
 
 /* Centered text opening image */
