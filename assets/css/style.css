@@ -42,6 +42,39 @@
 }
 /*navbar end*/
 
+/*section*/
+
+#about-us {
+   background-image:url("../images/welshflag.jpg");
+   
+}
+
+
+#Our-Promise {
+    background-color: #ccccff
+}
+
+#sample-menus {
+  background-color: #ccf2ff;  
+}
+
+#get-quote {
+    background-color: grey
+}
+
+/*--farm image from https://www.dailymail.co.uk/news/article-2234453/Portraits-true-grit-Amazing-black-white-photos-capture-everyday-struggles-Oklahoma-farmers-fighting-survive-Dust-Bowl.html--*/
+#contact {
+    text-align: center;
+    background-image:url("../images/black-and-white-farm.jpg");
+}
+
+#Social-media {
+    text-align: center;
+    background-color: #FFBD33;
+}
+
+/*section end*/
+
 body, html {
   height: 100%;
 }
@@ -87,6 +120,10 @@ img {
     padding-left: 40px;
 }
 
+.gal-center {
+    text-align: center;
+}
+
 
 .fullpage {
     overflow-x: hidden;
@@ -98,14 +135,25 @@ img {
 	font-family: 'Manjari', sans-serif;
 	position: relative;
 }
-/*--new second image--*/
-#about-us {
-   background-image:url("../images/welshflag.jpg");
-   
+
+.contact-us-css {
+     background-position: center;
 }
 
-#Social-media {
-    text-align: center 
+.social_link {
+    background-position: center;
+    background-color:#FFBD33;
+    
+}
+
+
+.heading {
+    font: 'Architects Daughter';
+}
+
+.social-center {
+    margin: 0 auto;
+     width: 100px; 
 }
 
 
@@ -125,27 +173,6 @@ img {
   transform: translate(-50%, -50%);
   text-align: center;
   color: white;
-}
-
-#get-quote {
-    background-color: grey
-}
-
-#Social-media{
-    background-color: #FFBD33
-}
-
-.social-center {
-    
-}
-
-#Our-Promise {
-    background-color: #ccccff
-}
-/*--farm image from https://www.dailymail.co.uk/news/article-2234453/Portraits-true-grit-Amazing-black-white-photos-capture-everyday-struggles-Oklahoma-farmers-fighting-survive-Dust-Bowl.html--*/
-#contact {
-    text-align: center;
-    background-image:url("../images/black-and-white-farm.jpg");
 }
 
 .contact-text {
@@ -212,12 +239,3 @@ padding-right: 1.1rem;
 /*gallery end*/
 
 
-.contact-us-css {
-     background-position: center;
-}
-
-.social_link {
-    background-position: center;
-    background-color:#FFBD33;
-    
-}
